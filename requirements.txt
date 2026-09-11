@@ -1,0 +1,10 @@
+# PyTorch 请按 CUDA 版本单独安装（见 setup_wsl.sh），不在此文件内
+transformers==4.44.2
+datasets==2.20.0
+accelerate==0.33.0
+peft==0.12.0
+trl==0.9.6
+bitsandbytes==0.43.3
+sentencepiece==0.2.0
+einops==0.8.0
+rich==13.7.1

@@ -1,0 +1,11 @@
+# 训练产物（模型权重，体积大，不纳入 Git）
+output/
+
+# Python 环境
+.venv/
+__pycache__/
+*.pyc
+
+# 系统
+.DS_Store
+Thumbs.db
